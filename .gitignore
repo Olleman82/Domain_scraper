@@ -1,0 +1,9 @@
+# Skrapad data
+scraped_content/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/ 
